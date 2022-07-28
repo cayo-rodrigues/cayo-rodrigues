@@ -2,11 +2,11 @@
 
 ### Main projects
 
-- [Primeira Fila](http://primeira-fila.herokuapp.com/docs/) 
-- [Proworking](https://proworking.vercel.app/)
-- [Yoca](https://cayoca.herokuapp.com/api/docs/)
-- [JoKing](https://jo-king.herokuapp.com/)
-- [Portfolio](https://portfolio-cayo-rodrigues.vercel.app/)
+- <a href="http://primeira-fila.herokuapp.com/docs/" target="_blank">Primeira Fila</a>
+- <a href="https://proworking.vercel.app/" target="_blank">Proworking</a>
+- <a href="https://cayoca.herokuapp.com/api/docs/" target="_blank">Yoca</a>
+- <a href="https://jo-king.herokuapp.com/" target="_blank">JoKing</a>
+- <a href="https://portfolio-cayo-rodrigues.vercel.app/" target="_blank">Portfolio</a>
 
 ###
 
