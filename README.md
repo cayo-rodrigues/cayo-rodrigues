@@ -2,11 +2,11 @@
 
 ### Main projects
 
-- <a href="http://primeira-fila.herokuapp.com/docs/" target="_blank">Primeira Fila</a>
-- <a href="https://proworking.vercel.app/" target="_blank">Proworking</a>
-- <a href="https://cayoca.herokuapp.com/api/docs/" target="_blank">Yoca</a>
-- <a href="https://jo-king.herokuapp.com/" target="_blank">JoKing</a>
-- <a href="https://portfolio-cayo-rodrigues.vercel.app/" target="_blank">Portfolio</a>
+- <a href="http://primeira-fila.herokuapp.com/docs/" target="_blank">Primeira Fila</a> - An API for movies and cinemas
+- <a href="https://proworking.vercel.app/" target="_blank">Proworking</a> - A website for informal workers
+- <a href="https://cayoca.herokuapp.com/api/docs/" target="_blank">Yoca</a> - An API for restaurants
+- <a href="https://jo-king.herokuapp.com/" target="_blank">JoKing</a> - A social network for sharing puns
+- <a href="https://portfolio-cayo-rodrigues.vercel.app/" target="_blank">Portfolio</a> - My portfolio webpage
 
 ###
 
@@ -25,7 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" width="42" alt="amazonwebservices logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" width="42" alt="ubuntu logo"  />
 </div>
 
