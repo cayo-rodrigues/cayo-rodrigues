@@ -2,11 +2,12 @@
 
 ### Main projects
 
-- <a href="http://primeira-fila.herokuapp.com/docs/" target="_blank">Primeira Fila</a> - An API for movies and cinemas
+- <a href="http://primeira-fila.herokuapp.com/docs/" target="_blank">Primeira Fila</a> - An API for movies, cinemas and buying tickets online
 - <a href="https://proworking.vercel.app/" target="_blank">Proworking</a> - A website for informal workers
-- <a href="https://cayoca.herokuapp.com/api/docs/" target="_blank">Yoca</a> - An API for restaurants
+- <a href="https://cayoca.herokuapp.com/api/docs/" target="_blank">Yoca</a> - An API for restaurants management
 - <a href="https://jo-king.herokuapp.com/" target="_blank">JoKing</a> - A social network for sharing puns
 - <a href="https://portfolio-cayo-rodrigues.vercel.app/" target="_blank">Portfolio</a> - My portfolio webpage
+- <a href="https://pypi.org/project/dj-drf-utils/" target="_blank">dj-drf-utils</a> - A Python package that provides useful functions and classes for common tasks in Django projects
 
 ###
 
