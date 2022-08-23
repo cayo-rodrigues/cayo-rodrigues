@@ -48,7 +48,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cayo-rodrigues&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="stats graph" height="175"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&theme=radical&username=cayo-rodrigues&layout=compact" alt="languages graph" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&theme=radical&username=cayo-rodrigues&layout=compact&langs_count=6" alt="languages graph" height="175" />
 </div>
 
 ###
