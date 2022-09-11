@@ -12,32 +12,58 @@
 
 ### Main tools and technologies
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="python logo" title="Python" />
-  <img src="./assets/dj.png" height="40" width="40" alt="django logo" title="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="react logo" title="React" />
+<table>
+  <tr>
+    <td align="center" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="python logo" title="Python" /></td>
+    <td align="center"><img src="./assets/dj.png" height="40" width="40" alt="django logo" title="Django" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="react logo" title="React" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" width="40" alt="typescript logo" title="Typescript"  /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="40" alt="javascript logo" title="Javascript"  /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="nodejs logo" title="Node.js"  /></td>
+  </tr>
+  <tr>
+    <td align="center">Python</td>
+    <td align="center">Django</td>
+    <td align="center">React</td>
+    <td align="center">Typescript</td>
+    <td align="center">Javascript</td>
+    <td align="center">Node.js</td>
+  </tr>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" width="40" alt="typescript logo" title="Typescript"  />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="40" alt="javascript logo" title="Javascript"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="nodejs logo" title="Node.js"  />
+  <tr>
+    <td align="center"><img src="./assets/express.svg" height="40" width="40" alt="express logo" title="Express"  /></td>
+    <td align="center"><img src="./assets/typeorm.png" height="40" width="40" alt="typeorm logo" title="TypeORM"  /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo" title="HTML"  /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3 logo" title="CSS"  /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="c logo" title="C"  /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="postgresql logo" title="PostgreSQL"  /></td>
+  </tr>
+  <tr>
+    <td align="center">Express</td>
+    <td align="center">TypeORM</td>
+    <td align="center">HTML</td>
+    <td align="center">CSS</td>
+    <td align="center">C</td>
+    <td align="center">PostgreSQL</td>
+  </tr>
   
-  <img src="./assets/express.svg" height="40" width="40" alt="express logo" title="Express"  />
-  <img src="./assets/typeorm.png" height="40" width="40" alt="typeorm logo" title="TypeORM"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo" title="HTML"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3 logo" title="CSS"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="c logo" title="C"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="postgresql logo" title="PostgreSQL"  />
-  
-  <img src="assets/sqlite.png" height="40" width="40" alt="sqlite logo" title="SQLite"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" width="40" alt="redis logo" title="Redis"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="docker logo" title="Docker"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="40" alt="amazonwebservices logo" title="Amazon S3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="40" alt="ubuntu logo" title="Ubuntu"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="git logo" title="Git"  />
-
-</div>
+  <tr>
+    <td align="center"><img src="assets/sqlite.png" height="40" width="40" alt="sqlite logo" title="SQLite"  /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" width="40" alt="redis logo" title="Redis"  /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="docker logo" title="Docker"  /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="40" alt="amazonwebservices logo" title="Amazon S3" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="40" alt="ubuntu logo" title="Ubuntu"  /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="git logo" title="Git"  /></td>
+  </tr>
+  <tr>
+    <td align="center">SQLite</td>
+    <td align="center">Redis</td>
+    <td align="center">Docker</td>
+    <td align="center">AWS S3</td>
+    <td align="center">Ubuntu</td>
+    <td align="center">Git</td>
+  </tr>
+</table>
 
 ### How to reach me
 
