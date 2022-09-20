@@ -2,7 +2,7 @@
 
 ### Main projects
 
-- <a href="http://primeira-fila.herokuapp.com/docs/" target="_blank">Primeira Fila</a> - An API for movies, cinemas and buying tickets online
+- <a href="https://primeira-fila-api.up.railway.app/docs/" target="_blank">Primeira Fila</a> - An API for movies, cinemas and buying tickets online
 - <a href="https://proworking.vercel.app/" target="_blank">Proworking</a> - A website for informal workers
 - <a href="https://cayoca.herokuapp.com/api/docs/" target="_blank">Yoca</a> - An API for restaurants management
 - <a href="https://jo-king.herokuapp.com/" target="_blank">JoKing</a> - A social network for sharing puns
