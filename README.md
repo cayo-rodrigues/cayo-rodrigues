@@ -76,9 +76,14 @@
   </a>
 </div>
 
----
+##
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cayo-rodrigues&show_icons=true&theme=radical&count_private=true" alt="stats graph" height="175"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&theme=radical&username=cayo-rodrigues&layout=compact&langs_count=8" alt="languages graph" height="175" />
-</div>
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cayo-rodrigues&theme=radical)
+##
+
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cayo-rodrigues&theme=radical)
+![Languages per commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cayo-rodrigues&theme=radical)
+![Languages per repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cayo-rodrigues&theme=radical)
+![Commits UTC](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cayo-rodrigues&theme=radical&utcOffset=-3)
+##
+[![GitHub Streak](https://streak-stats.demolab.com?user=cayo-rodrigues&theme=radical&hide_border=true)](https://git.io/streak-stats)
