@@ -78,12 +78,7 @@
 
 ##
 
-![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cayo-rodrigues&theme=nord_dark)
-##
-
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cayo-rodrigues&theme=nord_dark)
 ![Languages per commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cayo-rodrigues&theme=nord_dark)
-![Languages per repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cayo-rodrigues&theme=nord_dark)
-![Commits UTC](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cayo-rodrigues&theme=nord_dark&utcOffset=-3)
 ##
 [![GitHub Streak](https://streak-stats.demolab.com?user=cayo-rodrigues&theme=nord&hide_border=false)](https://git.io/streak-stats)
