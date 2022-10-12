@@ -2,12 +2,12 @@
 
 ### Main projects
 
-- <a href="https://primeira-fila-api.up.railway.app/docs/" target="_blank">Primeira Fila</a> - An API for movies, cinemas and buying tickets online
-- <a href="https://proworking.vercel.app/" target="_blank">Proworking</a> - A website for informal workers
-- <a href="https://cayoca.herokuapp.com/api/docs/" target="_blank">Yoca</a> - An API for restaurants management
-- <a href="https://jo-king.herokuapp.com/" target="_blank">JoKing</a> - A social network for sharing puns
+- <a href="https://github.com/cayo-rodrigues/primeira-fila" target="_blank">Primeira Fila</a> - An API for movies, cinemas and buying tickets online
+- <a href="https://github.com/cayo-rodrigues/proworking" target="_blank">Proworking</a> - A website for informal workers
+- <a href="https://github.com/cayo-rodrigues/yoca" target="_blank">Yoca</a> - An API for restaurants management
+- <a href="https://github.com/cayo-rodrigues/joking" target="_blank">JoKing</a> - A social network for sharing puns
 - <a href="https://portfolio-cayo-rodrigues.vercel.app/" target="_blank">Portfolio</a> - My portfolio webpage
-- <a href="https://pypi.org/project/dj-drf-utils/" target="_blank">dj-drf-utils</a> - A Python package that provides useful functions and classes for common tasks in Django projects
+- <a href="https://github.com/cayo-rodrigues/dj-drf-utils" target="_blank">dj-drf-utils</a> - A Python package that provides useful functions and classes for common tasks in Django projects
 - <a href="https://github.com/cayo-rodrigues/gsic" target="_blank">GSiC</a> - This C program accomplishes some common tasks done by grocery stores cashiers
 
 ### Main tools and technologies
