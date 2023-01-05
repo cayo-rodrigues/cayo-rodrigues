@@ -33,19 +33,19 @@
   
   <tr>
     <td align="center"><img src="./assets/express.svg" height="40" width="40" alt="express logo" title="Express"  /></td>
-    <td align="center"><img src="./assets/typeorm.png" height="40" width="40" alt="typeorm logo" title="TypeORM"  /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo" title="HTML"  /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3 logo" title="CSS"  /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="c logo" title="C"  /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="postgresql logo" title="PostgreSQL"  /></td>
+    <td align="center"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" height="40" width="40" alt="mysql logo" title="MySQL"  /></td>
   </tr>
   <tr>
     <td align="center">Express</td>
-    <td align="center">TypeORM</td>
     <td align="center">HTML</td>
     <td align="center">CSS</td>
     <td align="center">C</td>
     <td align="center">PostgreSQL</td>
+    <td align="center">MySQL</td>
   </tr>
   
   <tr>
