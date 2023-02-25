@@ -52,17 +52,17 @@
     <td align="center"><img src="assets/sqlite.png" height="40" width="40" alt="sqlite logo" title="SQLite"  /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" width="40" alt="redis logo" title="Redis"  /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="docker logo" title="Docker"  /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="40" alt="amazonwebservices logo" title="Amazon S3" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="40" alt="ubuntu logo" title="Ubuntu"  /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="git logo" title="Git"  /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" alt="linux logo" title="Linux"  /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" width="40" alt="selenium logo" title="Selenium" /></td>
   </tr>
   <tr>
     <td align="center">SQLite</td>
     <td align="center">Redis</td>
     <td align="center">Docker</td>
-    <td align="center">AWS S3</td>
-    <td align="center">Ubuntu</td>
     <td align="center">Git</td>
+    <td align="center">Linux</td>
+    <td align="center">Selenium</td>
   </tr>
 </table>
 
