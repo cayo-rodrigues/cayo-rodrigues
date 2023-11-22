@@ -11,58 +11,64 @@
 - <a href="https://github.com/cayo-rodrigues/gsic" target="_blank">GSiC</a> - This C program accomplishes some common tasks done by grocery stores cashiers
 - <a href="https://github.com/cayo-rodrigues/joking" target="_blank">JoKing</a> - A social network for sharing puns (my first full stack project)
 
-### Main tools and technologies
+### Main tools
 
 <table>
   <tr>
     <td align="center" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="python logo" title="Python" /></td>
     <td align="center"><img src="./assets/dj.png" height="40" width="40" alt="django logo" title="Django" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="react logo" title="React" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" width="40" alt="selenium logo" title="Selenium" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="nodejs logo" title="Node.js"  /></td>    
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" width="40" alt="typescript logo" title="Typescript"  /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="40" alt="javascript logo" title="Javascript"  /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="nodejs logo" title="Node.js"  /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="react logo" title="React" /></td>
   </tr>
   <tr>
     <td align="center">Python</td>
     <td align="center">Django</td>
-    <td align="center">React</td>
+    <td align="center">Selenium</td>
+    <td align="center">Node.js</td>
     <td align="center">Typescript</td>
     <td align="center">Javascript</td>
-    <td align="center">Node.js</td>
+    <td align="center">React</td>
   </tr>
   
   <tr>
-    <td align="center"><img src="./assets/express.svg" height="40" width="40" alt="express logo" title="Express"  /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo" title="HTML"  /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3 logo" title="CSS"  /></td>
+    <td align="center"><img src="assets/typeorm.png" height="40" width="40" alt="typeorm logo" title="TypeORM"  /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="40" alt="go logo" title="Go"  /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="c logo" title="C"  /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo" title="HTML"  /></td>
+    <td align="center"><img src="assets/htmx.png" height="40" width="40" alt="htmx logo" title="HTMX"  /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3 logo" title="CSS"  /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="40" alt="tailwind logo" title="Tailwind"  /></td>
+  </tr>
+  <tr>    
+    <td align="center">TypeORM</td>
+    <td align="center">Go</td>
+    <td align="center">C</td>
+    <td align="center">HTML</td>
+    <td align="center">HTMX</td>
+    <td align="center">CSS</td>
+    <td align="center">Tailwind</td>
+  </tr>
+  
+  <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="postgresql logo" title="PostgreSQL"  /></td>
     <td align="center"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" height="40" width="40" alt="mysql logo" title="MySQL"  /></td>
-  </tr>
-  <tr>
-    <td align="center">Express</td>
-    <td align="center">HTML</td>
-    <td align="center">CSS</td>
-    <td align="center">C</td>
-    <td align="center">PostgreSQL</td>
-    <td align="center">MySQL</td>
-  </tr>
-  
-  <tr>
     <td align="center"><img src="assets/sqlite.png" height="40" width="40" alt="sqlite logo" title="SQLite"  /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" width="40" alt="redis logo" title="Redis"  /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="docker logo" title="Docker"  /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="git logo" title="Git"  /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" width="40" alt="aws logo" title="AWS"  /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" alt="linux logo" title="Linux"  /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" width="40" alt="selenium logo" title="Selenium" /></td>
   </tr>
   <tr>
+    <td align="center">PostgreSQL</td>
+    <td align="center">MySQL</td>
     <td align="center">SQLite</td>
     <td align="center">Redis</td>
     <td align="center">Docker</td>
-    <td align="center">Git</td>
+    <td align="center">AWS</td>
     <td align="center">Linux</td>
-    <td align="center">Selenium</td>
   </tr>
 </table>
 
