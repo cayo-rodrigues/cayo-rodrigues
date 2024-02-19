@@ -40,7 +40,7 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo" title="HTML"  /></td>
     <td align="center"><img src="assets/htmx.png" height="40" width="40" alt="htmx logo" title="HTMX"  /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3 logo" title="CSS"  /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="40" alt="tailwind logo" title="Tailwind"  /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" width="40" alt="tailwind logo" title="Tailwind"  /></td>
   </tr>
   <tr>    
     <td align="center">TypeORM</td>
