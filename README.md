@@ -3,7 +3,8 @@
 ### Main projects
 
 - <a href="https://github.com/cayo-rodrigues/nff" target="_blank">NFF</a> - Automate the process of issuing, canceling and downloading invoices, as well as aggregate income and expenses data on a government website called <a href="https://www2.fazenda.mg.gov.br/sol/" target="_blank">Siare</a> for farmers
-- <a href="https://github.com/cayo-rodrigues/django-awesome-tools" target="_blank">django-awesome-tools</a> - A Python package that provides an awesome set of tools for working on Django projects
+- <a href="https://github.com/cayo-rodrigues/safe" target="_blank">Safe</a> - A simple, yet powerful validation library for Go programs
+- <a href="https://github.com/cayo-rodrigues/django-awesome-tools" target="_blank">Django Awesome Tools</a> - A Python package that provides an awesome set of tools for working on Django projects
 - <a href="https://github.com/cayo-rodrigues/primeira-fila" target="_blank">Primeira Fila</a> - An API for movies, cinemas and buying tickets online
 - <a href="https://github.com/cayo-rodrigues/proworking" target="_blank">Proworking</a> - A website for informal workers
 - <a href="https://github.com/cayo-rodrigues/yoca" target="_blank">Yoca</a> - An API for restaurants management
