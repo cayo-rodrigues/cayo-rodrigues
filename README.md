@@ -71,7 +71,6 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="docker logo" title="Docker"  /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" width="40" alt="aws logo" title="AWS"  /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="40" alt="nginx logo" title="Nginx"  /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" height="40" width="40" alt="grpc logo" title="gRPC"  /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" width="40" alt="cicd logo" title="ci/cd"  /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="git logo" title="git"  /></td>
     <td align="center"><img src="./assets/github.svg" height="40" width="40" alt="github logo" title="git hub"  /></td>
@@ -82,7 +81,6 @@
     <td align="center">Docker</td>
     <td align="center">AWS</td>
     <td align="center">Nginx</td>
-    <td align="center">gRPC</td>
     <td align="center">CI/CD</td>
     <td align="center">Git</td>
     <td align="center">Github</td>
