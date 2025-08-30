@@ -2,6 +2,7 @@
 
 ### Main projects
 
+- <a href="https://fiado-seguro.vercel.app" target="_blank">Fiado Seguro</a> - Tired of chasing late payments? Fiado Seguro helps you manage, track, and collect your credit purchases — without the hassle! 
 - <a href="https://github.com/cayo-rodrigues/nff" target="_blank">NFF</a> - Automate the process of issuing, canceling and downloading invoices, as well as aggregate income and expenses data on a government website called <a href="https://www2.fazenda.mg.gov.br/sol/" target="_blank">Siare</a> for farmers
 - <a href="https://github.com/cayo-rodrigues/safe" target="_blank">Safe</a> - A simple, yet powerful validation library for Go programs
 - <a href="https://github.com/cayo-rodrigues/django-awesome-tools" target="_blank">Django Awesome Tools</a> - A Python package that provides an awesome set of tools for working on Django projects
@@ -25,6 +26,7 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3 logo" title="CSS"  /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="c logo" title="C"  /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="react logo" title="React" /></td>
+    
   </tr>
   <tr>
     <td align="center">Node.js</td>
@@ -40,9 +42,11 @@
     
     
     
+    
   </tr>
   
   <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="40" alt="nextjs logo" title="Next.js" /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="40" alt="jest logo" title="Jest"  /></td>
     <td align="center"><img src="./assets/dj.png" height="40" width="40" alt="django logo" title="Django" /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" width="40" alt="selenium logo" title="Selenium" /></td>
@@ -51,9 +55,10 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" width="40" alt="tailwind logo" title="Tailwind"  /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="postgresql logo" title="PostgreSQL"  /></td>
     <td align="center"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" height="40" width="40" alt="mysql logo" title="MySQL"  /></td>
-    <td align="center"><img src="assets/sqlite.png" height="40" width="40" alt="sqlite logo" title="SQLite"  /></td>
+    
   </tr>
-  <tr>    
+  <tr> 
+    <td align="center">Next.js</td>
     <td align="center">Jest</td>
     <td align="center">Django</td>
     <td align="center">Selenium</td>
@@ -62,11 +67,12 @@
     <td align="center">Tailwind</td>
     <td align="center">PostgreSQL</td>
     <td align="center">MySQL</td>
-    <td align="center">SQLite</td>
+    
     
   </tr>
   
   <tr>
+    <td align="center"><img src="assets/sqlite.png" height="40" width="40" alt="sqlite logo" title="SQLite"  /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" width="40" alt="redis logo" title="Redis"  /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="docker logo" title="Docker"  /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" width="40" alt="aws logo" title="AWS"  /></td>
@@ -85,6 +91,7 @@
     <td align="center">Git</td>
     <td align="center">Github</td>
     <td align="center">Linux</td>
+    <td align="center">SQLite</td>
   </tr>
 </table>
 
